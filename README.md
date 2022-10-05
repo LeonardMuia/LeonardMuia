@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Nairobi, Kenya. I've been writing code for over 4 years.
+#### I'm a Full-Stack Developer working in Nairobi, Kenya.
 
 ##### NOW
 
