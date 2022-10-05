@@ -21,7 +21,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leonardmuia&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardmuia&hide=TeX&layout=compact)
 
-##### ⚡ Technologies
+#### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
