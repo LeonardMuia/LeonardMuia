@@ -11,9 +11,9 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Writing Hub**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.sql`,`.ruby` 
-- 🌍 My most preferred frameworks are **Laravel** **Vue** **React** **Django** **Ruby on Rails** 
-- 🌱 Learning about **Google Cloud** **AWS** **Microservices**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.sql`,`.rb` 
+- 🌍 My most preferred frameworks are **Laravel**, **Vue**, **React**, **Django**, **Ruby on Rails** 
+- 🌱 Learning about **Google Cloud**, **Microservices**
 - 💬 Ping me about **laravel**, **vue**, **algorithms**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
 - ⚡️ Fun fact: I majored in finance.
