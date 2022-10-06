@@ -18,7 +18,6 @@
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
 - ⚡️ Fun fact: I majored in finance.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=leonardmuia&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardmuia&hide=TeX&layout=compact)
 
 #### ⚡ Technologies
