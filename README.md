@@ -14,7 +14,7 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.sql`,`.rb` 
 - 🌍 My most preferred frameworks are **Laravel**, **Vue**, **React**, **Django**, **Ruby on Rails** 
 - 🌱 Learning about **Google Cloud**, **Microservices**
-- 💬 Ping me about **JavaScript Frameworks**, **Laravel**, **Algorithms**, **Web Development**, **Design Thinking**
+- 💬 Ping me about **React JS**,**Vue JS**, **Node JS**, **EXPRESS**, **NEXT JS**, **Tailwind**, **Laravel**, **ROR**, **Django**, **APIs**, **Algorithms**, **GoLang**, **Design Thinking**
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
 - ⚡️ Fun fact: I majored in finance.
 
