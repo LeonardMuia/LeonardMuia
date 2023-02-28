@@ -5,9 +5,8 @@
 
 ##### NOW
 
-- ✨ Creating a Customer Review platform;
-- ✨ Shipping new features on Writing Hub.
-- ✨ Designing prototype for a startup in Pharmaceutical.
+- ✨ Working at PSM Consult, building ERP and SAAS applications in Laravel;
+- ✨ Building prototype for an African startup in Real Estate.
 
 ##### BIO
 
