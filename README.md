@@ -5,8 +5,8 @@
 
 ##### NOW
 
-- ✨ Working at PSM Consult, building ERP and SAAS applications in Laravel;
-- ✨ Building prototype for an African startup in Real Estate.
+- ✨ Working at Jibu Labs, building jengarealty.com using NextJS, Flask and MongoDB;
+- ✨ Building a Flutter application for a auto-repair company in Kenya.
 
 ##### BIO
 
