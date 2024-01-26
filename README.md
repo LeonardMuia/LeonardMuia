@@ -1,7 +1,7 @@
 ### Hi 👋
 
 #### I'm a Full-Stack Developer working in Nairobi, Kenya.
-#### I have been writing code since 2017.
+#### I have been writing code since 2016.
 
 ##### NOW
 
@@ -10,10 +10,10 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Writing Hub**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.sql`,`.rb` 
-- 🌍 My most preferred frameworks are **Laravel**, **Vue**, **React**, **Django**, **Ruby on Rails** 
-- 🌱 Learning about **Google Cloud**, **Microservices**
+- 🏢 I'm currently working at **Jibu Labs**
+- ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sql`,`.php` 
+- 🌍 My most preferred frameworks are **Flask**, **Laravel, **Vue**, **React**, **Next**, **Django**, **Ruby on Rails** 
+- 🌱 Learning about **AWS**, **Microservices**, **DevOps**
 - 💬 Ping me about **React JS**,**Vue JS**, **Node JS**, **Express**, **Next JS**, **Tailwind**, **Laravel**, **ROR**, **Django**, **APIs**, **Algorithms**, **GoLang**, **Design Thinking**
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
 - ⚡️ Fun fact: I majored in finance.
