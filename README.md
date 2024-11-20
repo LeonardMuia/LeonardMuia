@@ -5,8 +5,9 @@
 
 ##### NOW
 
-- ✨ Working at Jibu Labs, building jengarealty.com using NextJS, Flask and MongoDB;
-- ✨ Building a Flutter application for a auto-repair company in Kenya.
+- ✨ Working at Jibu Labs, building jengarealty.com using NextJS, Flask, and MongoDB;
+- ✨ Building an ERP for a storage facility company in Kenya.
+- ✨ Building a student platform in EdTech for the US market with Jibu Labs.
 
 ##### BIO
 
@@ -14,7 +15,7 @@
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sql`,`.php` 
 - 🌍 My most preferred frameworks are **Flask**, **Laravel, **Vue**, **React**, **Next**, **Django**, **Ruby on Rails** 
 - 🌱 Learning about **AWS**, **Microservices**, **DevOps**
-- 💬 Ping me about **React JS**,**Vue JS**, **Node JS**, **Express**, **Next JS**, **Tailwind**, **Laravel**, **ROR**, **Django**, **APIs**, **Algorithms**, **GoLang**, **Design Thinking**
+- 💬 Ping me about **React JS**,**Vue JS**, **Node JS**, **Express**, **Next JS**, **Tailwind**, **Laravel**, **ROR**, **FLASK**, **APIs**, **Algorithms**, **GoLang**, **Design Thinking**
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
 - ⚡️ Fun fact: I majored in finance.
 
