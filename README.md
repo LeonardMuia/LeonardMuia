@@ -1,7 +1,7 @@
 ### Hi 👋
 
 #### I'm a Full-Stack Developer working in Nairobi, Kenya.
-#### I have been writing code since 2016.
+#### I have been writing code since 2017.
 
 ##### NOW
 
