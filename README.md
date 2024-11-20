@@ -5,9 +5,9 @@
 
 ##### NOW
 
-- ✨ Working at Jibu Labs, building jengarealty.com using NextJS, Flask, and MongoDB;
 - ✨ Building an ERP for a storage facility company in Kenya.
 - ✨ Building a student platform in EdTech for the US market with Jibu Labs.
+- ✨ Building jengarealty.com using NextJS, Node.js, Flask, Docker, MongoDB, and AWS Cloud;
 
 ##### BIO
 
