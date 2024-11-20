@@ -13,8 +13,8 @@
 
 - 🏢 I'm currently working at **Jibu Labs**
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sql`,`.php` 
-- 🌍 My most preferred frameworks are **Flask**, **Laravel, **Vue**, **React**, **Next**, **Django**, **Ruby on Rails** 
-- 🌱 Learning about **AWS**, **Microservices**, **DevOps**
+- 🌍 My most preferred tech stacks are **MERN**, **VILT**, **TILL**, **React**, **Next**, **Express**, **Nodejs** 
+- 🌱 Learning about **Generative AI (Python)**, **AWS System Architect**, **DevOps (Tooling)**
 - 💬 Ping me about **React JS**,**Vue JS**, **Node JS**, **Express**, **Next JS**, **Tailwind**, **Laravel**, **ROR**, **FLASK**, **APIs**, **Algorithms**, **GoLang**, **Design Thinking**
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
 - ⚡️ Fun fact: I majored in finance.
