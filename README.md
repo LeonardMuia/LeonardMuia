@@ -5,20 +5,19 @@
 
 ##### NOW
 
-- ✨ Building an ERP for a storage facility company in Kenya.
-- ✨ Building a student platform in EdTech for the US market with Jibu Labs.
-- ✨ Building jengarealty.com using NextJS, Node.js, Flask, Docker, MongoDB, and AWS Cloud;
+- 🚀 Driving technology strategy as CTO for a rapidly scaling E-commerce startup, overseeing architecture, product development, and team growth.
+- 🤖 Leading the development of an AI-powered EdTech platform focused on personalized planning tools, data-driven insights, and scalable delivery for global markets.
+- 🌱 Building a tech-driven food supply chain startup, optimizing farm-to-fork logistics, traceability, and demand forecasting using real-time data systems.
 
 ##### BIO
 
-- 🏢 I'm currently working at **Jibu Labs**
-- ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sql`,`.php` 
+- 🏢 I'm currently working at **Jibulabs**
+- ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sql`,`.php`, `.go`, `.java`
 - 🌍 My most preferred tech stacks are **MERN**, **VILT**, **TALL** for fast prototyping.
-- 🔨 Preferred languages **PHP**, **Python**, **Golang**, **Typescript**, **JavaScript**.
-- 🌱 Learning about **Generative AI (Python)**, **AWS System Architect**, **DevOps (Tooling)**
+- 🔨 Preferred languages **Python**, **Golang**, **Typescript**, **JavaScript**.
+- 🌱 Trying new tech frontiers in **AI/ML**
 - 💬 Ping me about **React JS**,**Vue JS**, **Node JS**, **Express**, **Next JS**, **Tailwind**, **Laravel**, **ROR**, **FLASK**, **APIs**, **Algorithms**, **GoLang**, **Design Thinking**
 - 📫 Reach me: [twitter.com/leonardmuia](https://twitter.com/LeonardMuia)
-- ⚡️ Fun fact: I majored in finance.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardmuia&hide=TeX&layout=compact)
 
