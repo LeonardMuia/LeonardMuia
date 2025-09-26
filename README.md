@@ -1,15 +1,15 @@
-### Hi 👋
+#### Hi 👋
 
-#### I'm a Full-Stack Developer working in Nairobi, Kenya.
-#### I have been writing code since 2017.
+##### I'm a Full-Stack Developer working in Nairobi, Kenya.
+##### I have been writing code since 2017.
 
-##### NOW
+###### NOW
 
 - 🚀 Driving technology strategy as CTO for a rapidly scaling E-commerce startup, overseeing architecture, product development, and team growth.
 - 🤖 Leading the development of an AI-powered EdTech platform focused on personalized planning tools, data-driven insights, and scalable delivery for global markets.
 - 🌱 Building a tech-driven food supply chain startup, optimizing farm-to-fork logistics, traceability, and demand forecasting using real-time data systems.
 
-##### BIO
+###### BIO
 
 - 🏢 I'm currently working at **Jibulabs**
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sql`,`.php`, `.go`, `.java`
@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardmuia&hide=TeX&layout=compact)
 
-#### ⚡ Technologies
+##### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
